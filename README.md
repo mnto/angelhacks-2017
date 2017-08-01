@@ -6,4 +6,4 @@ Project description: Food waste in America is a current pressing environmental i
 
 ## User interface
 
-![alt text](img/home.png "Home page" | height=100)
+![alt text](img/home.png "Home page" | width=100)
