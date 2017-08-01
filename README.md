@@ -6,27 +6,7 @@ Project description: Food waste in America is a current pressing environmental i
 
 ## User interface
 
-![alt text](img/home.png "Home page")
 
-![alt text](img/register.png "Register page")
-
-![alt text](img/userHome.png "User Home page")
-
-![alt text](img/map.png "Map page")
-
-![alt text](img/foodList.png "Food list page")
-
-![alt text](img/claim.png "Claim a product")
-
-![alt text](img/order.png "Order receipt page")
-
-![alt text](img/userProfile.png "User Profile page")
-
-## Restaurant interface
-
-![alt text](img/foodListRestaurant.png "Restaurant Inventory page")
-
-![alt text](img/addItem.png "Restaurant Adding Item page")
 
 
 
