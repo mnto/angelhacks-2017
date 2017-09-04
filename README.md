@@ -10,12 +10,19 @@ Food providers and users can register separately and they will be immediately ad
 
 ## User interface
 From the user's home page, they are able to browse available food providers that have posted items (produce, leftover foods) on their sites.
+
 ![alt text](img/userHome.png "User Home page")
+
 Users can see these food providers locations in relations to their current locations to find the closest ones.
+
 ![alt text](img/map.png "Map page")
+
 On each food provider's site, users can see what items have been posted, and the available quantity. They can claim an amount of each item. A confirmation will be sent to the user. The receipt contains a unique QR code that can be scanned when the user visits a local food provider to receive the produce that they have claimed.
+
 ![alt text](img/foodList.png "Food list page")![alt text](img/claim.png "Claim a product")
+
 All past transactions are available to view on the user's profile
+
 ![alt text](img/order.png "Order receipt page")![alt text](img/userProfile.png "User Profile page")
 
 ## Restaurant interface
