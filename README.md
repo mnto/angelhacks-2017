@@ -34,5 +34,8 @@ Upon finishing the form, their site will be automatically updated with more new 
 
 ![alt text](img/addItem.png "Restaurant Adding Item page")
 
-
+## Creators
+[Minh To](https://github.com/mnto)
+[Teresa Liu](https://github.com/teresaliu20)
+[Priya Sarkar](https://github.com/sarkarpm)
 
